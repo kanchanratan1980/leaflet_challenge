@@ -65,14 +65,7 @@ Previous Class activities
 Leaflet documentation – https://leafletjs.com
 
 
-Files with External Logic:
 
-Leaflet-Part-1/static/js/logic.js:
 
-Functions: getColor(), getRadius(), styleInfo()
-
-GeoJSON layer with onEachFeature and popups
-
-Legend control setup with depth color scale
 
  
