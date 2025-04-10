@@ -47,7 +47,8 @@ If you use Git:
 
 git clone https://github.com/kanchanratan1980/leaflet_challenge  
 
-Then, open index.html in a browser.
+Then, open index.html in a browser.  
+
  Option 3: Use VS Code + Live Server (Recommended)
 Open the folder Leaflet-Part-1 in Visual Studio Code
 
